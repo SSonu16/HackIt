@@ -7,6 +7,10 @@
 A Real-Time Linguistic Bridge for Local Trade
 Hackathon Project | AI + Full-Stack | Voice-First | Multilingual
 
+**Live Demo**
+Click this to view the project - https://multilingual-mandi-o6us590.public.builtwithrocket.new
+[ Press the otp which is given by default - This will be modified soon]
+
 #  Problem Statement
 Local mandi (market) ecosystems suffer from multiple challenges:
 
@@ -163,5 +167,3 @@ Build the application for production:
 ```bash
 npm run build
 ```
-Click this to view the project - https://multilingual-mandi-o6us590.public.builtwithrocket.new
-[ Press the otp which is given by default - This will be modified soon]
