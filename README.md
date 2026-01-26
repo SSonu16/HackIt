@@ -1,6 +1,6 @@
 # HackIt
 
-# 26 JAN PROMPT CHALLENGE - 
+# 26 JAN PROMPT CHALLENGE 2026 - 
 
 🌾 The Multilingual Mandi
 
@@ -19,7 +19,7 @@ Local mandi (market) ecosystems suffer from multiple challenges:
 
 # Solution Overview
 The Multilingual Mandi is a mobile-first, AI-powered web platform that enables fair, transparent, and inclusive local trade by acting as a real-time linguistic and negotiation bridge.
-Key Highlights
+Key Highlights <br>
 🌐 Multilingual communication (Tamil, Hindi, English, Telugu, Kannada) <br>
 🎙️ Voice-first interaction for semi-literate users <br>
 🤖 AI-driven price discovery using mandi data <br>
