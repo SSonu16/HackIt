@@ -10,35 +10,36 @@ Hackathon Project | AI + Full-Stack | Voice-First | Multilingual
 #  Problem Statement
 Local mandi (market) ecosystems suffer from multiple challenges:
 
---Language barriers between farmers, vendors, and buyers
---Unfair or unclear price discovery due to lack of transparency
---Inefficient negotiations that depend on middlemen
---Low literacy & digital comfort, making text-heavy apps unusable
---Limited access to real-time market intelligence
---These issues reduce farmers’ income and slow down local trade.
+--Language barriers between farmers, vendors, and buyers <br>
+--Unfair or unclear price discovery due to lack of transparency <br>
+--Inefficient negotiations that depend on middlemen <br>
+--Low literacy & digital comfort, making text-heavy apps unusable <br>
+--Limited access to real-time market intelligence <br>
+--These issues reduce farmers’ income and slow down local trade. <br>
 
 # Solution Overview
 The Multilingual Mandi is a mobile-first, AI-powered web platform that enables fair, transparent, and inclusive local trade by acting as a real-time linguistic and negotiation bridge.
 Key Highlights
-🌐 Multilingual communication (Tamil, Hindi, English, Telugu, Kannada)
-🎙️ Voice-first interaction for semi-literate users
-🤖 AI-driven price discovery using mandi data
-💬 AI-assisted negotiation chatbot
-📱 Vendor-friendly mobile UI
-👥 User Roles
+🌐 Multilingual communication (Tamil, Hindi, English, Telugu, Kannada) <br>
+🎙️ Voice-first interaction for semi-literate users <br>
+🤖 AI-driven price discovery using mandi data <br>
+💬 AI-assisted negotiation chatbot <br>
+📱 Vendor-friendly mobile UI <br>
+👥 User Roles <br>
 
 
 1️⃣ Vendor (Farmer / Seller)
-Login via mobile OTP or email
-Add products with quantity & expected price
-Speak product details using voice
-View AI-recommended fair prices
-Negotiate with buyers in own language
+Login via mobile OTP or email <br>
+Add products with quantity & expected price <br>
+Speak product details using voice <br>
+View AI-recommended fair prices <br>
+Negotiate with buyers in own language <br>
+
 2️⃣ Buyer (Trader / Shopkeeper)
-Browse products by crop, price, and location
-Chat & negotiate in preferred language
-Use voice or text for communication
-Get AI-suggested counter-offers
+Browse products by crop, price, and location <br>
+Chat & negotiate in preferred language <br>
+Use voice or text for communication <br>
+Get AI-suggested counter-offers <br>
 
 # Core Features
 
@@ -59,7 +60,7 @@ Predicts Min / Fair / Max price
 Confidence scoring included
 Rule-based fallback if data is limited
 
-4)Voice Capabilities
+4) Voice Capabilities
 Voice → Text (speech input)
 Text → Voice (AI replies)
 Optimized for low-bandwidth rural usage
