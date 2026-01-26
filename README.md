@@ -1,8 +1,70 @@
 # HackIt
 
+# 26 JAN PROMPT CHALLENGE - 
+
+🌾 The Multilingual Mandi
+
+A Real-Time Linguistic Bridge for Local Trade
+Hackathon Project | AI + Full-Stack | Voice-First | Multilingual
+
+#  Problem Statement
+Local mandi (market) ecosystems suffer from multiple challenges:
+
+--Language barriers between farmers, vendors, and buyers
+--Unfair or unclear price discovery due to lack of transparency
+--Inefficient negotiations that depend on middlemen
+--Low literacy & digital comfort, making text-heavy apps unusable
+--Limited access to real-time market intelligence
+--These issues reduce farmers’ income and slow down local trade.
+
+# Solution Overview
+The Multilingual Mandi is a mobile-first, AI-powered web platform that enables fair, transparent, and inclusive local trade by acting as a real-time linguistic and negotiation bridge.
+Key Highlights
+🌐 Multilingual communication (Tamil, Hindi, English, Telugu, Kannada)
+🎙️ Voice-first interaction for semi-literate users
+🤖 AI-driven price discovery using mandi data
+💬 AI-assisted negotiation chatbot
+📱 Vendor-friendly mobile UI
+👥 User Roles
+
+
+1️⃣ Vendor (Farmer / Seller)
+Login via mobile OTP or email
+Add products with quantity & expected price
+Speak product details using voice
+View AI-recommended fair prices
+Negotiate with buyers in own language
+2️⃣ Buyer (Trader / Shopkeeper)
+Browse products by crop, price, and location
+Chat & negotiate in preferred language
+Use voice or text for communication
+Get AI-suggested counter-offers
+
+# Core Features
+
+1) Multilingual Support
+Auto language detection
+Real-time text & voice translation
+Language-specific UI and AI responses
+
+3) AI-Powered Negotiation
+Suggests fair counter-prices
+Warns against unfair pricing
+Maintains polite, local-market tone
+Responds in user’s language
+
+3) AI Price Discovery
+Uses crop, location & season
+Predicts Min / Fair / Max price
+Confidence scoring included
+Rule-based fallback if data is limited
+
+4)Voice Capabilities
+Voice → Text (speech input)
+Text → Voice (AI replies)
+Optimized for low-bandwidth rural usage
 
 # React
-
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
 ##  Features
