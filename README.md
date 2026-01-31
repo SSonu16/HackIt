@@ -8,8 +8,7 @@ A Real-Time Linguistic Bridge for Local Trade
 Hackathon Project | AI + Full-Stack | Voice-First | Multilingual
 
 **Live Demo**
-Click this to view the project - https://multilingual-mandi-o6us590.public.builtwithrocket.new
-[ Press the otp which is given by default - This will be modified soon]
+Click this to view the project - https://mandi-lingua-bridge.lovable.app
 
 #  Problem Statement
 Local mandi (market) ecosystems suffer from multiple challenges:
@@ -37,13 +36,13 @@ Login via mobile OTP or email <br>
 Add products with quantity & expected price <br>
 Speak product details using voice <br>
 View AI-recommended fair prices <br>
-Negotiate with buyers in own language <br>
 
 2️⃣ Buyer (Trader / Shopkeeper)
 Browse products by crop, price, and location <br>
 Chat & negotiate in preferred language <br>
 Use voice or text for communication <br>
 Get AI-suggested counter-offers <br>
+Negotiate with buyers in own language <br>
 
 # Core Features
 
