@@ -8,7 +8,7 @@ A Real-Time Linguistic Bridge for Local Trade
 Hackathon Project | AI + Full-Stack | Voice-First | Multilingual
 
 **Live Demo**
-Click this to view the project - https://mandi-lingua-bridge.lovable.app
+Click this to view the project - https://mandi-lingua-bridge.lovable.app/
 
 #  Problem Statement
 Local mandi (market) ecosystems suffer from multiple challenges:
